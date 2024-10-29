@@ -38,3 +38,4 @@ class Get_Image:
         out_image = Image.fromarray(out_image_np)
         return out_image
         
+        
