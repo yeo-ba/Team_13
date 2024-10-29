@@ -124,5 +124,4 @@ class Get_mask:
         plt.savefig('bg_image.png', bbox_inches='tight', pad_inches=0)
 
     def get_masked_image(self):
-
         return self.masked_image
